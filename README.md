@@ -3,7 +3,7 @@ name:natakasa
 
 # Skill
 |OS  |備考  |
-|---|---|---|
+|---|---|
 |Linux(CentOS)  |- |
 |Unix(Solaris) |- |
 |Windows Server  |- |
@@ -19,12 +19,12 @@ name:natakasa
 |VBA  |- |
 
 |DB |備考  |
-|---|---|---|
+|---|---|
 |Oracle  |- |
 |SQLServer  |- |
 
 |Tool |備考  |
-|---|---|---|
+|---|---|
 |Slack  |- |
 |MS Teams  |- |
 |Redmine  |- |
