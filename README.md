@@ -35,11 +35,12 @@ name:natakasa
 
 # Work
 
-https://github.com/natakasa  
-https://praiseme.herokuapp.com/  
+[Github](https://github.com/natakasa)  
+[Praise Me!](https://praiseme.herokuapp.com/)
 ...making
 
 # Blog, SNS
+[Twitter](https://hotaimo.hateblo.jp/)  
+[Blog](https://twitter.com/hotaimo777/)
 
-https://hotaimo.hateblo.jp/  
-https://twitter.com/hotaimo777/  
+ 
