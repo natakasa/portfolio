@@ -8,8 +8,8 @@ name:natakasa
 |Unix(Solaris) |- |
 |Windows Server  |- |
 
-|言語/FW  |備考  |
-|---|---|---|
+|言語,FW  |備考  |
+|---|---|
 |Java/Struts  |- |
 |Java/Spring |- |
 |C#/ASP.NET Web Forms |- |
