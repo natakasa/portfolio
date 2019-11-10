@@ -1,7 +1,9 @@
 # About Me
+
 name:natakasa
 
 # Skill
+
 |OS  |備考  |
 |---|---|
 |Linux(CentOS)  |- |
@@ -32,10 +34,12 @@ name:natakasa
 |GitBucket  |- |
 
 # Work
+
 https://github.com/natakasa  
 https://praiseme.herokuapp.com/  
 ...making
 
 # Blog, SNS
+
 https://hotaimo.hateblo.jp/  
 https://twitter.com/hotaimo777/  
